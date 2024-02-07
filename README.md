@@ -1,5 +1,5 @@
 <p align="center">
-<img width="60%" src="https://github.com/xonoxitron/images/blob/main/INE-eJPT-Certification-Credential.png">
+<img width="60%" src="https://github.com/xonoxitron/INE-eJPT-Certification-Exam-Notes-Cheat-Sheet/blob/main/INE-eJPT-Certification-Credential.png">
 </p>
 
 # ⚔️ INE eJPT Certification Exam Notes+Cheat Sheet 📔
